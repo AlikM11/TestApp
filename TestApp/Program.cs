@@ -5,8 +5,8 @@
         static void Main()
         {
             User user = new User();
-            //user.Name = "Ilkin";
-            //Console.WriteLine(user.Name);
+            user.Name = "Ilkin";
+            Console.WriteLine(user.Name);
             user.Any();
         }
     }
